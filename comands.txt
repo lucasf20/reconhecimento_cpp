@@ -1,0 +1,1 @@
+g++ webcam_test.cpp -o output `pkg-config --cflags --libs opencv`
